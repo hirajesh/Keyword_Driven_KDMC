@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1446654" started-at="2018-12-17T11:32:36Z" finished-at="2018-12-17T11:56:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1446654" started-at="2018-12-17T11:32:36Z" finished-at="2018-12-17T11:56:43Z">
+      <class name="com.exceute.Execute_Operations">
+        <test-method status="PASS" signature="RUNSCRIPTS()[pri:0, instance:com.exceute.Execute_Operations@174d20a]" name="RUNSCRIPTS" duration-ms="1446643" started-at="2018-12-17T17:02:36Z" finished-at="2018-12-17T17:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNSCRIPTS -->
+      </class> <!-- com.exceute.Execute_Operations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
